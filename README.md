@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geo</h1>
 <h3 align="center">A passionate data engineer currently working on his Masters in Computer Science.</h3>
 
-- 🔭 I’m currently working on **My next ETL pipeline combining multiple sources of data**
+- 🔭 I’m currently working on **My Master's in CS with a focus in Data Science, My next ETL pipeline combining multiple sources of data**
 
 - 🌱 I’m currently learning **more about relational db's, non-relational databases, and big data db's..**
 
