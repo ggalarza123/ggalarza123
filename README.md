@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Geo</h1>
 <h3 align="center">A passionate data engineer currently working on his Masters in Computer Science.</h3>
-<img align="right" alt="coding" width="400" src="https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg">
 
 - 🔭 I’m currently working on **My Master's in CS with a focus in Data Science, My next ETL pipeline combining multiple sources of data**
 
