@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg)
+![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg](https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg))
 
 <h1 align="center">Hi 👋, I'm Geo</h1>
 <h3 align="center">A passionate data engineer currently working on his Masters in Computer Science.</h3>
